@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+
+# エディタ
+*.swp
+*~
+
+# 個人の設定（Scriptableフォルダに置く。リポジトリには含めない）
+kakugen-config.json
+
+# アイコン画像（各自で用意する素材）
+icon.png
+icon.jpg
